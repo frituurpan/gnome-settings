@@ -4,8 +4,8 @@ set org.gnome.desktop.wm.keybindings move-to-workspace-3 "['<Shift><Alt>numbersi
 set org.gnome.desktop.wm.keybindings move-to-workspace-4 "['<Shift><Alt>dollar']"
 set org.gnome.desktop.wm.keybindings move-to-workspace-5 "['<Shift><Alt>percent']"
 
-set org.gnome.desktop.wm.keybindings switch-to-workspace-1 "['<Alt>exclam']"
-set org.gnome.desktop.wm.keybindings switch-to-workspace-2 "['<Alt>at']"
-set org.gnome.desktop.wm.keybindings switch-to-workspace-3 "['<Alt>numbersign']"
-set org.gnome.desktop.wm.keybindings switch-to-workspace-4 "['<Alt>dollar']"
-set org.gnome.desktop.wm.keybindings switch-to-workspace-5 "['<Alt>percent']"
+set org.gnome.desktop.wm.keybindings switch-to-workspace-1 "['<Alt>1']"
+set org.gnome.desktop.wm.keybindings switch-to-workspace-2 "['<Alt>2']"
+set org.gnome.desktop.wm.keybindings switch-to-workspace-3 "['<Alt>3']"
+set org.gnome.desktop.wm.keybindings switch-to-workspace-4 "['<Alt>4']"
+set org.gnome.desktop.wm.keybindings switch-to-workspace-5 "['<Alt>5']"
